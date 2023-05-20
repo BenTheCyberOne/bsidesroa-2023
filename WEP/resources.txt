@@ -1,0 +1,3 @@
+https://tbhaxor.com/wep-encryption-in-detail/
+https://www.aircrack-ng.org/doku.php?id=shared_key
+https://www.isaac.cs.berkeley.edu/isaac/wep-faq.html

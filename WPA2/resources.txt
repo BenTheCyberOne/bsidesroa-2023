@@ -1,0 +1,6 @@
+https://www.wifi-professionals.com/2019/01/4-way-handshake
+https://hashcat.net/wiki/doku.php?id=cracking_wpawpa2
+https://wpa3.mathyvanhoef.com/
+https://github.com/vanhoefm/krackattacks-scripts
+https://kalitut.com/pmkid-attack/
+https://praneethwifi.in/2019/11/09/4-way-hand-shake-keys-generation-and-mic-verification/

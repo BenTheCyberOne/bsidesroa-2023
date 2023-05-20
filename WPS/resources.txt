@@ -1,0 +1,6 @@
+http://archive.hack.lu/2014/Hacklu2014_offline_bruteforce_attack_on_wps.pdf
+https://en.kali.tools/?p=334
+https://kalitut.com/effective-selection-of-wps-pins-based/
+https://wpsfinder.com/wps-pin-generator
+https://github.com/t6x/reaver-wps-fork-t6x/wiki/A-brief-history-of-WPS-hacking
+https://www.cs.cmu.edu/~rdriley/330/papers/viehboeck_wps.pdf
